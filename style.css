@@ -18,6 +18,11 @@ main {
 
 }
 
+header {
+  font-family: 'Geologica';
+ 
+}
+
 .section1 {
   font-family: 'Geologica';
   min-height: 50vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
@@ -121,6 +126,71 @@ main {
 }
 
 .section8 ul {
+
+  list-style: none;
+
+}
+
+.section9 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section9 ul {
+
+  list-style: none;
+
+}
+
+.section10 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section10 ul {
+
+  list-style: none;
+
+}
+
+.section11 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section11 ul {
+
+  list-style: none;
+
+}
+
+.section12 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section12 ul {
+
+  list-style: none;
+
+}
+
+.section13 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section13 ul {
 
   list-style: none;
 
