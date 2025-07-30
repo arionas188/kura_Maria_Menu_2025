@@ -1,0 +1,127 @@
+html {
+    
+    scroll-behavior: smooth;
+}
+body {
+    min-height: 100vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+    background-color: rgb(242,205,151);
+    font-size: 1rem;
+}
+
+main {
+  
+}
+/* backround-color: rgb(123,18,55) ; */
+/* backround-color: rgb(242,205,151) ; */
+
+.custom-img {
+
+}
+
+.section1 {
+  font-family: 'Geologica';
+  min-height: 50vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+}
+
+.section1 ul {
+
+  list-style: none;
+
+}
+
+.section2 {
+  font-family: 'Geologica';
+  min-height: 50vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+}
+
+.section2 ul {
+
+  list-style: none;
+
+}
+
+.custom-border {
+  border-bottom: 0.1rem solid rgb(123, 18, 55);
+}
+
+/* section3 */
+.section3 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section3 ul {
+
+  list-style: none;
+
+}
+
+
+.section4 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section4 ul {
+
+  list-style: none;
+
+}
+
+.section5 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section5 ul {
+
+  list-style: none;
+
+}
+
+.section6 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section6 ul {
+
+  list-style: none;
+
+}
+
+.section7 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section7 ul {
+
+  list-style: none;
+
+}
+
+.section8 {
+  font-family: 'Geologica';
+  min-height: 25vh; /* Εξασφαλίζει ότι το site έχει τουλάχιστον το ύψος της οθόνης */
+  color: rgb(123,18,55);
+
+}
+
+.section8 ul {
+
+  list-style: none;
+
+}
